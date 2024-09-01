@@ -3,3 +3,4 @@ Backup and history of each and very commit is stored
 it has staging area and working directory 
 staging area is between the 
 working directory and the git repo
+so git add helps git to include the changes to the next commit
